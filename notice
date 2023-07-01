@@ -1,1 +1,3 @@
+Ensure you replace 'your-private-key' with your actual private key or specify the correct path to your wallet JSON file. Also, replace 'address1', 'address2', 'address3' with the actual recipient addresses you want to send ETH to, and adjust the amount variable as needed.
 
+Take note that the script includes middleware to handle ZkSync's Proof-of-Authority network. It's important to exercise caution when working with cryptocurrencies and ensure that you understand the risks involved. Additionally, verify that you're using the correct URL for the ZkSync network node.
