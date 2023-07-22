@@ -1,4 +1,4 @@
-# eth-zksync-multy
+# eth-zksync-multiple-addresses
 To automate sending ETH from one address to multiple addresses on the ZkSync network
 from web3 import Web3
 from web3.middleware import geth_poa_middleware
